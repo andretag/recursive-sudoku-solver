@@ -1,2 +1,2 @@
-#simple recursive sudoku solver
-This is a very basic yet efficient recursive sudoku solver, which uses backtracking and dynamic lists
+## Sudoku Solver
+Simple sudoku solver based on recursive analysis of the solution space (backtracking).
